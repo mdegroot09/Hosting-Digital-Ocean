@@ -3,7 +3,6 @@
 ## Overview
 
 
-
 ###### Basic hosting steps:
 1. Create an [SSH key](#ssh-key), which you'll use for a secure connection to your server. (One Time Only)
 1. Sign up for a droplet on [Digital Ocean](#digital-ocean-account). (One Time Only)
